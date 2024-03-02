@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE727CB62B93AE7200FF0EC8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE727CB52B93AE7200FF0EC8 /* TableViewController.swift */; };
 		DEA8B0FE2B9365EB00E95675 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA8B0FD2B9365EB00E95675 /* AppDelegate.swift */; };
 		DEA8B1002B9365EB00E95675 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA8B0FF2B9365EB00E95675 /* SceneDelegate.swift */; };
 		DEA8B1022B9365EB00E95675 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA8B1012B9365EB00E95675 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE727CB52B93AE7200FF0EC8 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		DEA8B0FA2B9365EB00E95675 /* TravelBookAppSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBookAppSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEA8B0FD2B9365EB00E95675 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEA8B0FF2B9365EB00E95675 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				DEA8B10B2B9365EC00E95675 /* LaunchScreen.storyboard */,
 				DEA8B10E2B9365EC00E95675 /* Info.plist */,
 				DEA8B1062B9365EB00E95675 /* TravelBookAppSwift.xcdatamodeld */,
+				DE727CB52B93AE7200FF0EC8 /* TableViewController.swift */,
 			);
 			path = TravelBookAppSwift;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				DEA8B1022B9365EB00E95675 /* ViewController.swift in Sources */,
 				DEA8B0FE2B9365EB00E95675 /* AppDelegate.swift in Sources */,
 				DEA8B1082B9365EB00E95675 /* TravelBookAppSwift.xcdatamodeld in Sources */,
+				DE727CB62B93AE7200FF0EC8 /* TableViewController.swift in Sources */,
 				DEA8B1002B9365EB00E95675 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
